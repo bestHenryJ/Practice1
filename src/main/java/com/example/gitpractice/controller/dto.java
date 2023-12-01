@@ -1,5 +1,5 @@
 package com.example.gitpractice.controller;
 
 public class dto {
-    private String phone;
+    private String address;
 }
